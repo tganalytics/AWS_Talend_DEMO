@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Y2XRcAtLEeihkJJ4CsDvfA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Y2XRcQtLEeihkJJ4CsDvfA" comment="" name="RedshiftHost" prompt="RedshiftHost?" promptNeeded="false" type="id_String" value="52.37.207.67"/>
+  <contextParameter xmi:id="_Y2XRcgtLEeihkJJ4CsDvfA" comment="" name="RedshiftDbName" prompt="RedshiftDbName?" promptNeeded="false" type="id_String" value="oodledb"/>
+  <contextParameter xmi:id="_Y2XRcwtLEeihkJJ4CsDvfA" comment="" name="RedshiftUsername" prompt="RedshiftUsername?" promptNeeded="false" type="id_String" value="root"/>
+  <contextParameter xmi:id="_Y2XRdAtLEeihkJJ4CsDvfA" comment="" name="RedshiftPassword" prompt="RedshiftPassword?" promptNeeded="false" type="id_Password" value="fnLV2RvhzQN+rJnXfQllOA=="/>
+  <contextParameter xmi:id="_Y2XRdQtLEeihkJJ4CsDvfA" comment="" name="RedshiftPort" prompt="RedshiftPort?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

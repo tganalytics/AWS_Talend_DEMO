@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Y1fuwAtLEeihkJJ4CsDvfA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Y1fuwQtLEeihkJJ4CsDvfA" comment="" name="S3_Access_Key" prompt="S3_Access_Key?" promptNeeded="false" type="id_String" value="&quot;AKIAIDR3JKGSVMZQ7C6A&quot;"/>
+  <contextParameter xmi:id="_Y1fuwgtLEeihkJJ4CsDvfA" comment="" name="S3_Secret_Key" prompt="S3_Secret_Key?" promptNeeded="false" type="id_Password" value="5F23O52ZimgVQlywuIOvCn85W/jbAAFFJZzEWcORDwtAwJHG26Os3J2u2HXEd5kl"/>
+  <contextParameter xmi:id="_Y1fuwwtLEeihkJJ4CsDvfA" comment="" name="S3_Target_Bucket" prompt="S3_Target_Bucket?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuxAtLEeihkJJ4CsDvfA" comment="" name="S3_Source_Bucket" prompt="S3_Source_Bucket?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuxQtLEeihkJJ4CsDvfA" comment="" name="S3_Source_Folder_Name" prompt="S3_Source_Folder_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuxgtLEeihkJJ4CsDvfA" comment="" name="S3_Target_Folder_Name" prompt="S3_Target_Folder_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuxwtLEeihkJJ4CsDvfA" comment="" name="S3_File_Name" prompt="S3_File_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuyAtLEeihkJJ4CsDvfA" comment="" name="TalendSourceBucket" prompt="TalendSourceBucket?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuyQtLEeihkJJ4CsDvfA" comment="" name="TalendTargetBucket" prompt="TalendTargetBucket?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Y1fuygtLEeihkJJ4CsDvfA" comment="" name="CredentialBucket" prompt="CredentialBucket?" promptNeeded="false" type="id_String" value="&quot;oodle-test&quot;"/>
+</talendfile:ContextType>
