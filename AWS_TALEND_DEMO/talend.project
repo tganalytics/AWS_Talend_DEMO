@@ -657,4 +657,6 @@
     <migrationTask xmi:id="_IWrzIgtLEeihkJJ4CsDvfA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_CbnisgtLEeihkJJ4CsDvfA" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="__L63kQx-EeidKZuGjWkTWw" login="krishnamurthy.thyagarajan@topgolf.com" firstName="Krishna" lastName="Thyagarajan" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="__L63kgx-EeidKZuGjWkTWw" login="rakesh.veerannagari@topgolf.com" firstName="Rakesh" lastName="Veerannagari" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
